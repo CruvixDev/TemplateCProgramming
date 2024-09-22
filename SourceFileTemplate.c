@@ -9,7 +9,7 @@
 
 /* General interfaces --------------------------------------------------------*/
 
-/* Used interfaces (dependencies includes ) ----------------------------------*/
+/* Used interfaces (dependencies includes) -----------------------------------*/
 
 /* Associated interfaces -----------------------------------------------------*/
 
