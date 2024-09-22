@@ -33,4 +33,4 @@ extern "C" {
 }
 #endif
 
-#endif /* __MAIN_H */
+#endif /* __HEADER_TEMPLATE_H */
